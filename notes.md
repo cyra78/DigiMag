@@ -1,21 +1,10 @@
-TBDs/ISSUES
-1. w3.css was modified to remove hardcoded fonts from it.
-Can it be fixed by adding a style css into index.html. Check and try
-But then we need to add that style to all the article pages too!
-
-Must fix issues 
-1. sidebar contents grows its always scrolled to bottom
-Also sidebar can be 40% of screen for cell but for desktop can just be 20 or 30%
-2. next prev needs to be worked on
-8. side bar contents need to reduce spacing for it to be more compacted"
-
 NOTES
 1.#refs for <a href for side bar navigation can be from inside the article pages too.
 For simplicity they are set for the w3-include-html tag in index.html
 Also an article can have multiple #hrefs for content lookup as well
 2. 2 types of sidebar closingnav and notclosingnavs js functions in index.html
 
-IMPORTANT NOTES FOR EDITORS
+IMPORTANT NOTES FOR ARTICLE EDITORS
 1. no article pages can have titles except for index.html
 2. no article pages can have styles on body.
 3. As much as possible no scripts needed in articles htmls. They work but lets keep only for rarest of rarest

@@ -14,6 +14,8 @@ Other salient features for maintenance purpose were
 The source is pretty sparce and is just index.html. 
 The dependencies [w3.css](https://www.w3schools.com/w3css/) and [w3.js](https://www.w3schools.com/w3js/) help solve 4, 5, are included in the src folder
 
+#### Demo code can be viewed [here](https://cyra78.github.io/DigiMagDemo/2/)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
